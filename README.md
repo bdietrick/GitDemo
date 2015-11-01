@@ -1,2 +1,2 @@
 # GitDemo
-Used to demostrate Git
+Used to demonstrate Git
